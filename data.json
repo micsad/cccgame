@@ -1,0 +1,50 @@
+{
+"Continent1": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+},
+"Continent2": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+},
+"Continent3": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+},
+"Continent4": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+},
+"Continent5": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+},
+"Continent6": {
+"Country1": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country2": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country3": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country4": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country5": ["City1", "City2", "City3", "City4", "City5", "City6"],
+"Country6": ["City1", "City2", "City3", "City4", "City5", "City6"]
+}
+}
